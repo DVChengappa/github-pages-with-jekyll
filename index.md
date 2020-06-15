@@ -14,5 +14,5 @@ instagram_username: diya_chengappa3
 
 # Accomplishments
 1. Finished junior year!
-2. Won best delegate for school awards at my recent MUn trips
+2. Won best delegate for school awards at my recent MUN trips
 3. I have survived all this madness 
