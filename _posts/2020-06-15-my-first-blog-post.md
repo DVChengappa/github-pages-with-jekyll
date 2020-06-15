@@ -1,5 +1,5 @@
 ---
-title: "A Website all About Me!"
+title: "June"
 date: 2020-06-15
 ---
 
