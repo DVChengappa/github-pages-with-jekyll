@@ -1,3 +1,2 @@
 # Welcome to my blog
-
-I'm glad you are here. I plan to talk about ...
+Hi my name is Diya Chengappa, and I am a junior at EBHS!
